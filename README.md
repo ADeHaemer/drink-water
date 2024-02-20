@@ -1,2 +1,2 @@
 # drink-water
-Fun little experiment in the html journey 
+My very first attempt at web development
